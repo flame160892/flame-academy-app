@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FLAME Academy</string>
+    <color name="ic_bg">#0B0B0F</color>
+    <style name="AppTheme" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/ic_bg</item>
+        <item name="android:colorAccent">#FF5A1F</item>
+    </style>
+</resources>
